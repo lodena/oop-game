@@ -7,21 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB189A5D1C1CBDFF00C57758 /* Level 2.wav in Resources */ = {isa = PBXBuildFile; fileRef = BB189A5C1C1CBDFF00C57758 /* Level 2.wav */; };
+		BB189A5F1C1CC4F200C57758 /* gameplay - death yell.wav in Resources */ = {isa = PBXBuildFile; fileRef = BB189A5E1C1CC4F200C57758 /* gameplay - death yell.wav */; };
+		BB7D20E01BF848BE009DBFE1 /* punch5.wav in Resources */ = {isa = PBXBuildFile; fileRef = BB7D20DE1BF848BE009DBFE1 /* punch5.wav */; };
+		BB7D20E11BF848BE009DBFE1 /* punch6.wav in Resources */ = {isa = PBXBuildFile; fileRef = BB7D20DF1BF848BE009DBFE1 /* punch6.wav */; };
+		BB7D20E41BF8647B009DBFE1 /* punch1.wav in Resources */ = {isa = PBXBuildFile; fileRef = BB7D20E21BF8647B009DBFE1 /* punch1.wav */; };
+		BB7D20E51BF8647B009DBFE1 /* punch2.wav in Resources */ = {isa = PBXBuildFile; fileRef = BB7D20E31BF8647B009DBFE1 /* punch2.wav */; };
+		BB7D20E71BF8688A009DBFE1 /* selected.wav in Resources */ = {isa = PBXBuildFile; fileRef = BB7D20E61BF8688A009DBFE1 /* selected.wav */; };
+		BB8D40721C08C0E400E8E07F /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = BB8D40711C08C0E400E8E07F /* Character.swift */; };
+		BBA3D3571C097312005461B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBA3D3561C097312005461B3 /* Assets.xcassets */; };
+		BBD197F01BFAD7480039F191 /* GameClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBD197EF1BFAD7480039F191 /* GameClass.swift */; };
 		BBF8644E1BE5AD8F00E76B06 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBF8644D1BE5AD8F00E76B06 /* AppDelegate.swift */; };
 		BBF864501BE5AD8F00E76B06 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBF8644F1BE5AD8F00E76B06 /* ViewController.swift */; };
 		BBF864531BE5AD8F00E76B06 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBF864511BE5AD8F00E76B06 /* Main.storyboard */; };
-		BBF864551BE5AD8F00E76B06 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BBF864541BE5AD8F00E76B06 /* Assets.xcassets */; };
 		BBF864581BE5AD8F00E76B06 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BBF864561BE5AD8F00E76B06 /* LaunchScreen.storyboard */; };
+		BBF864601BE5CCB500E76B06 /* Minecraft.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BBF8645F1BE5CCB500E76B06 /* Minecraft.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BB189A5C1C1CBDFF00C57758 /* Level 2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Level 2.wav"; sourceTree = "<group>"; };
+		BB189A5E1C1CC4F200C57758 /* gameplay - death yell.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "gameplay - death yell.wav"; sourceTree = "<group>"; };
+		BB7D20DE1BF848BE009DBFE1 /* punch5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = punch5.wav; sourceTree = "<group>"; };
+		BB7D20DF1BF848BE009DBFE1 /* punch6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = punch6.wav; sourceTree = "<group>"; };
+		BB7D20E21BF8647B009DBFE1 /* punch1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = punch1.wav; sourceTree = "<group>"; };
+		BB7D20E31BF8647B009DBFE1 /* punch2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = punch2.wav; sourceTree = "<group>"; };
+		BB7D20E61BF8688A009DBFE1 /* selected.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = selected.wav; sourceTree = "<group>"; };
+		BB8D40711C08C0E400E8E07F /* Character.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
+		BBA3D3561C097312005461B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BBD197EF1BFAD7480039F191 /* GameClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameClass.swift; sourceTree = "<group>"; };
 		BBF8644A1BE5AD8F00E76B06 /* oop game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "oop game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BBF8644D1BE5AD8F00E76B06 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BBF8644F1BE5AD8F00E76B06 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BBF864521BE5AD8F00E76B06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BBF864541BE5AD8F00E76B06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BBF864571BE5AD8F00E76B06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BBF864591BE5AD8F00E76B06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BBF8645F1BE5CCB500E76B06 /* Minecraft.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Minecraft.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,9 +76,19 @@
 			children = (
 				BBF8644D1BE5AD8F00E76B06 /* AppDelegate.swift */,
 				BBF8644F1BE5AD8F00E76B06 /* ViewController.swift */,
-				BBF864511BE5AD8F00E76B06 /* Main.storyboard */,
-				BBF864541BE5AD8F00E76B06 /* Assets.xcassets */,
+				BB8D40711C08C0E400E8E07F /* Character.swift */,
+				BBD197EF1BFAD7480039F191 /* GameClass.swift */,
 				BBF864561BE5AD8F00E76B06 /* LaunchScreen.storyboard */,
+				BBF864511BE5AD8F00E76B06 /* Main.storyboard */,
+				BB189A5E1C1CC4F200C57758 /* gameplay - death yell.wav */,
+				BB189A5C1C1CBDFF00C57758 /* Level 2.wav */,
+				BB7D20DE1BF848BE009DBFE1 /* punch5.wav */,
+				BB7D20DF1BF848BE009DBFE1 /* punch6.wav */,
+				BB7D20E21BF8647B009DBFE1 /* punch1.wav */,
+				BB7D20E31BF8647B009DBFE1 /* punch2.wav */,
+				BB7D20E61BF8688A009DBFE1 /* selected.wav */,
+				BBF8645F1BE5CCB500E76B06 /* Minecraft.ttf */,
+				BBA3D3561C097312005461B3 /* Assets.xcassets */,
 				BBF864591BE5AD8F00E76B06 /* Info.plist */,
 			);
 			path = "oop game";
@@ -124,7 +154,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				BBF864581BE5AD8F00E76B06 /* LaunchScreen.storyboard in Resources */,
-				BBF864551BE5AD8F00E76B06 /* Assets.xcassets in Resources */,
+				BB7D20E11BF848BE009DBFE1 /* punch6.wav in Resources */,
+				BBF864601BE5CCB500E76B06 /* Minecraft.ttf in Resources */,
+				BB7D20E71BF8688A009DBFE1 /* selected.wav in Resources */,
+				BB189A5F1C1CC4F200C57758 /* gameplay - death yell.wav in Resources */,
+				BB7D20E51BF8647B009DBFE1 /* punch2.wav in Resources */,
+				BB7D20E01BF848BE009DBFE1 /* punch5.wav in Resources */,
+				BB7D20E41BF8647B009DBFE1 /* punch1.wav in Resources */,
+				BB189A5D1C1CBDFF00C57758 /* Level 2.wav in Resources */,
+				BBA3D3571C097312005461B3 /* Assets.xcassets in Resources */,
 				BBF864531BE5AD8F00E76B06 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,8 +174,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BBD197F01BFAD7480039F191 /* GameClass.swift in Sources */,
 				BBF864501BE5AD8F00E76B06 /* ViewController.swift in Sources */,
 				BBF8644E1BE5AD8F00E76B06 /* AppDelegate.swift in Sources */,
+				BB8D40721C08C0E400E8E07F /* Character.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -285,6 +325,7 @@
 				BBF8645E1BE5AD8F00E76B06 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
